@@ -55,5 +55,8 @@ let weather = {    //let the promise be weather
      }
    });
  
+<<<<<<< HEAD
    //fetch the weather data of Delhi 
+=======
+>>>>>>> 0767f8c54722bdfc8bb908b7b9c5f839348f9600
  weather.fetchWeather("Delhi");
