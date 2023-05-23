@@ -1,0 +1,1 @@
+updated the source code of weather app by adding comments to each and every line code as to make it easier to understand the logic behind it. dumy
